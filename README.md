@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200"/>
 </div>
+---
 <div id="badges" align="center">
   <a href="https://t.me/ilukasup">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -9,6 +10,7 @@
     <img src="https://img.shields.io/badge/-headhunter-red?style=for-the-badge&logo=heaedhunter&logoColor=white" alt="Headhunter Badge"/>
   </a>
 </div>
+---
 <h3 align="center">
   <img src="https://media.giphy.com/media/2xDEDG8i0btJDLZNNS/giphy.gif" width="200"/>
 </h3>
@@ -16,6 +18,8 @@
 <h1 align="center">
 I'm a Juniour Frontend developer
 </h1>
+
+***
 
 ###  Languages and Tools :
 <div>
@@ -29,6 +33,8 @@ I'm a Juniour Frontend developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
 </div>
+
+***
 
 ### My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaozhereliev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
