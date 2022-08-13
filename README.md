@@ -17,7 +17,7 @@
 </h3>
 
 <h1 align="center">
-I'm a Juniour Frontend developer
+I'm a Frontend developer
 </h1>
 
 ***
