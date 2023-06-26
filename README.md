@@ -5,7 +5,7 @@
   <a href="https://t.me/ilukasup">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://hh.ru/resume/8841a8cdff09a772e30039ed1f704361383467">
+  <a href="https://hh.ru/resume/c2ddce6cff0b72b1ca0039ed1f5a5972765a57">
     <img src="https://img.shields.io/badge/-headhunter-red?style=for-the-badge&logo=heaedhunter&logoColor=white" alt="Headhunter Badge"/>
   </a>
 </div>
